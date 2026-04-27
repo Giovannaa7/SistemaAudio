@@ -1,4 +1,4 @@
-package br.alura.musicas.modelos;
+package br.musicas.modelos;
 
 public class Audio {
     private String titulo;

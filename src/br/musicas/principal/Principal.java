@@ -1,6 +1,9 @@
-package br.alura.musicas.principal;
+package br.musicas.principal;
 
-import br.alura.musicas.modelos.*;
+import br.musicas.modelos.*;
+import br.musicas.modelos.Musica;
+import br.musicas.modelos.Podcast;
+import br.musicas.modelos.Preferidas;
 
 public class Principal {
     public static void main(String[] args) {
